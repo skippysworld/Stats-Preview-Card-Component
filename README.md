@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/the-stats-card-component-that-i-dont-have-a-good-feeling-about-k5speV7Ti)
+- Live Site URL: [Github Pages](https://skippysworld.github.io/Stats-Preview-Card-Component/)
 
 ## My process
 
@@ -42,9 +42,11 @@ Users should be able to:
 
 ### What I learned
 
-Okie-dokie, this took me far more time than I expected. What I learned? That I might always end-up cycled in my own code and get lost.
+Okie-dokie, this took me far more time than I expected. Did I learn something? That I might always end-up cycled in my own code and get lost.
 
-I have a feeling like this might be the worst I've written so far. After two days I've almost gave up and I think I rather hard-coded this challenge instead of some responsivness.
+I have a feeling like this might be the worst code I've written so far. After two days I've almost gave up and I probably ended rather with hard-coded solution instead of keeping it more responsive.
+
+Lastly I learned it's much easier to code mobile version first. 
 
 ### Continued development
 
